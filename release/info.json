@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "ArcanistExtraFeats",
+      "UUID": "0bdcc685-7f83-441a-a37a-c0db21d6b890",
+      "folderName": "ArcanistExtraFeats",
+      "Description": "Arcanist Extra Feats",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}

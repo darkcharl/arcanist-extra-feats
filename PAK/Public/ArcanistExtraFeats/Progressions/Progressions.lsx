@@ -6,43 +6,43 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SorceryPoint,1,0);Tag(SORCERER_METAMAGIC)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,1,1);AddSpells(979e37ad-05fa-466c-af99-9eb104a6e876,,,,AlwaysPrepared);SelectPassives(49704931-e47b-4ce6-abc6-dfa7ba640752,2,Metamagic)"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="49ac7d80-eb5e-4dc3-be18-a10cdff99652"/>
+                    <attribute id="UUID" type="guid" value="b3bddb0a-8f32-4fc1-9588-0f9eb96ed303"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,1,1)"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="0d734c0c-975e-42e7-8a13-8289ae236705"/>
+                    <attribute id="UUID" type="guid" value="1b6368b7-6096-4371-8cce-625cc169d49b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c3506532-36eb-4d18-823e-497a537a9619,1,Metamagic);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0)"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="ea317080-f4f7-4f65-99bc-8876f1dff7d9"/>
+                    <attribute id="UUID" type="guid" value="a187d1ab-caab-4658-8982-2ae3751c0a01"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="14"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -50,11 +50,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="c998d22c-497c-4360-8318-bc120a178b4a"/>
+                    <attribute id="UUID" type="guid" value="642a45a4-64bc-471b-9a61-d18a093b095f"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="18"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -62,7 +62,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="5f2cf045-53e2-493d-b8f8-cb8d8b94a6f0"/>
+                    <attribute id="UUID" type="guid" value="8321d30d-41df-4ca6-b885-22f9104747d2"/>
                 </node>
             </children>
         </node>
